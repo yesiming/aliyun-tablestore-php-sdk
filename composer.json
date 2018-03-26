@@ -1,5 +1,5 @@
 {
-    "name": "artist/aliyun-tablestore-sdk",
+    "name": "yesiming/aliyun-tablestore-sdk",
     "description": "阿里云官方php SDK 2.1.1",
     "keywords": ["aliyun", "ots", "tablestore", "sdk"],
     "homepage": "https://github.com/fengchenghao/aliyun-tablestore-php-sdk",
